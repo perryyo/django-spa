@@ -1,11 +1,11 @@
 {
-  "name": "Django SPA",
+  "name": "djangospa",
   "version": "1.0.0",
-  "description": "",
+  "description": "SPA application served with Django",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Adam Wester",
   "license": "ISC"
 }
